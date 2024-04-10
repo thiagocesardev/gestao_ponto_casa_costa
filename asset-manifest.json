@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/gestao_ponto_casa_costa/static/js/main.63d2cab1.js",
+    "static/media/logo.png": "/gestao_ponto_casa_costa/static/media/logo.c7f1c9c5f64a3822fdeb.png",
+    "index.html": "/gestao_ponto_casa_costa/index.html",
+    "main.63d2cab1.js.map": "/gestao_ponto_casa_costa/static/js/main.63d2cab1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.63d2cab1.js"
+  ]
+}
